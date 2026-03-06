@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "69819bde9e82f8ac5aa78ff4"
+  },
+  "customerName": "Nguyen Van A",
+  "carNumber": "51A-999.99",
+  "startDate": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "totalAmount": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819f89832d90d0556d493a"
+  },
+  "customerName": "Lê Đức Minh",
+  "carNumber": "51A-999.99",
+  "startDate": {
+    "$date": "2026-12-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2027-12-12T00:00:00.000Z"
+  },
+  "totalAmount": 182500000,
+  "__v": 0
+}]

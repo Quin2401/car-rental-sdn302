@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "69819b8f9e82f8ac5aa78fee"
+  },
+  "carNumber": "51A-999.99",
+  "capacity": 4,
+  "status": "available",
+  "pricePerDay": 500000,
+  "features": [
+    "GPS",
+    "Camera lùi",
+    "Cửa sổ trời"
+  ],
+  "__v": 0
+}]
